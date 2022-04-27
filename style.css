@@ -1,0 +1,26 @@
+body{
+    color:rgb(42, 132, 211);
+    background-color:rgb(240, 102, 192);
+}
+.heading{
+    width: 80%;
+    font-size: 40px;
+    
+}
+.names_of_objects{
+    color:rgb(166, 234, 29);
+    font-size: 30px;
+    background-color:aqua ;
+    width: 500px;
+}
+#camera{
+    height: 300px;
+    width: 350px;
+    border: 7px dashed lightsalmon ;
+    
+}
+#result{
+    height: 400px;
+    width: 400px;
+    border:14px ridge lightsalmon;
+}
